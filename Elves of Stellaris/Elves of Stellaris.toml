@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[paths]]
+    reference = "Elves of Stellaris/en/**"
+    l10n = "Elves of Stellaris/{locale}/**"

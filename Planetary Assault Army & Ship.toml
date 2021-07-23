@@ -1,5 +1,0 @@
-basepath = ".."
-
-[[paths]]
-    reference = "Civil Wars/en/**"
-    l10n = "Civil Wars/{locale}/**"
