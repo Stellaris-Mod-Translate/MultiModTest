@@ -1,5 +1,0 @@
-basepath = "."
-
-[[paths]]
-    reference = "en/*.yml"
-    l10n = {locale}/*.yml"
