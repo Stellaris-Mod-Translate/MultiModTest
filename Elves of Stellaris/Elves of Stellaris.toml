@@ -1,5 +1,5 @@
-basepath = ".."
+basepath = "."
 
 [[paths]]
-    reference = "Elves of Stellaris/en/**"
-    l10n = "Elves of Stellaris/{locale}/**"
+    reference = "en/**"
+    l10n = {locale}/**"
