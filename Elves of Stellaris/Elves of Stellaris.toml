@@ -1,5 +1,5 @@
 basepath = "."
 
 [[paths]]
-    reference = "en/**/*.yml"
-    l10n = {locale}/**/*.yml"
+    reference = "en/*.yml"
+    l10n = {locale}/*.yml"
