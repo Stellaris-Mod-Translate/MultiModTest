@@ -1,5 +1,0 @@
-basepath = ".."
-
-[[paths]]
-    reference = "en/Planetary Assault Army & Ship/**"
-    l10n = "{locale}/Planetary Assault Army & Ship/**"
