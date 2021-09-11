@@ -1,0 +1,5 @@
+basepath = ".."
+
+[[paths]]
+	reference = "Abandon Colony/en/*.yml"
+	l10n = "Abandon Colony/{locale}/*.yml"
